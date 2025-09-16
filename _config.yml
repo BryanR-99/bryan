@@ -1,0 +1,18 @@
+title: Your Name — Data Scientist
+description: Turning messy data into actionable insights
+theme: jekyll-theme-minimal
+logo: /assets/img/placeholder.png
+show_downloads: false
+google_analytics:
+plugins:
+  - jekyll-seo-tag
+
+# Optional social links (uncomment and edit)
+# github_username: your-github-username
+# linkedin_username: your-linkedin-handle
+# twitter_username: your-twitter-handle
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
